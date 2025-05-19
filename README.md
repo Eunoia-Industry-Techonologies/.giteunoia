@@ -1,11 +1,11 @@
-# Eunoia_Project
+# Eunoia Industry Technologies
 
 **Eunoia Project: Dokumentasi Proyek**
 
 **1. Pendahuluan**
 
 *   **1.1 Ringkasan Proyek:**
-    *   **Nama Proyek:** Eunoia Project
+    *   **Nama Proyek:** Eunoia SosialMedia, EunoiaQ AI, Building Dashbord,
     *   **Tujuan Proyek:** [Jelaskan tujuan utama proyek. Contoh: "Untuk mengembangkan aplikasi mobile yang membantu pengguna mengelola jurnal harian, refleksi diri, dan melacak suasana hati mereka secara positif."]
     *   **Deskripsi Singkat:** [Deskripsikan secara singkat apa yang akan dilakukan aplikasi ini. Contoh: "Eunoia adalah aplikasi jurnal pribadi yang berfokus pada peningkatan kesehatan mental dan kesejahteraan pengguna. Aplikasi ini menyediakan fitur jurnal, pelacak suasana hati, pengingat, dan fitur refleksi diri."]
     *   **Versi Dokumen:** 1.0
